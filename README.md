@@ -8,3 +8,5 @@
 2024/01/09 00:00|Homework on the topic "Unit testing methods"
 
 2024/01/11 00:00|Homework on the topic “Systematizing and skipping tests.”
+
+2024/01/12 00:00|Homework on the topic "Logging"
