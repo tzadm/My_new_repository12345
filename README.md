@@ -12,3 +12,5 @@
 2024/01/12 00:00|Homework on the topic "Logging"
 
 2024/01/15 00:00|Homework on the topic “Asynchrony in practice”
+
+2024/01/18 00:00|Homework on the topic “Message processing handlers”.
