@@ -20,3 +20,5 @@
 2024/01/20 00:00|Homework on the topic "State Machine".
 
 2024/01/21 00:00|Homework on the topic "Keyboard of buttons."
+
+2024/01/22 00:00|Homework on the topic "Inline keyboards".
