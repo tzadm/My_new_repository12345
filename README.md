@@ -22,3 +22,5 @@
 2024/01/21 00:00|Homework on the topic "Keyboard of buttons."
 
 2024/01/22 00:00|Homework on the topic "Inline keyboards".
+
+2023/11/12 00:00|Additional practical assignment for the module: "Class Inheritance."
