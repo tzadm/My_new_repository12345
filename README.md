@@ -26,3 +26,5 @@
 2023/11/12 00:00|Additional practical assignment for the module: "Class Inheritance."
 
 2024/01/29 00:00|Homework on the topic "Creating a database, adding, selecting and deleting elements."
+
+2024/01/30 00:00|Homework on the topic "Selecting elements and functions in SQL queries"
