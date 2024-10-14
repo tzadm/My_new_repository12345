@@ -28,3 +28,5 @@
 2024/01/29 00:00|Homework on the topic "Creating a database, adding, selecting and deleting elements."
 
 2024/01/30 00:00|Homework on the topic "Selecting elements and functions in SQL queries"
+
+2024/01/31 00:00|Homework on the topic “Refinement of the bot”
