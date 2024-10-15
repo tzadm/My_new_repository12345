@@ -30,3 +30,5 @@
 2024/01/30 00:00|Homework on the topic "Selecting elements and functions in SQL queries"
 
 2024/01/31 00:00|Homework on the topic “Refinement of the bot”
+
+2024/02/01 00:00|Homework on the topic “Plan for writing an admin panel”
